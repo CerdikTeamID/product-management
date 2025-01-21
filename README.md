@@ -4,10 +4,14 @@ It allows users to perform CRUD (Create, Read, Update, Delete) operations on pro
 This README provides an overview of the project's features, files, and how to set it up.
 
 # FEATURES
--login admin session
+-login admin session (User: admin ; password: admin)
+
 -Add new products with various details, including product name, category, purchase prices, salling price,stock, product image, and date update.
+
 -View the list of existing products along with their details.
+
 -Edit product information, including updating prices, taxes, stock status, and images.
+
 -Delete unwanted product records without losing all the data from the database.
 
 # IMPORTANT NOTES
